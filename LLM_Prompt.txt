@@ -1,0 +1,65 @@
+我正在分析一个xlsx游戏数据集，我目前在使用jupyternotebook，pandas等进行分析，请给我一些可行的分析方向,以下是字段名和字段类型和含义：
+  name                                 # Game name (string).
+  release_date                         # Release date (string).
+  required_age                         # Age required to play, 0 if it is for all audiences (int).
+  price                                # Price in USD, 0.0 if its free (float).
+  dlc_count                            # Number of DLCs, 0 if you have none (int).
+  windows                              # Does it support Windows? (bool).
+  mac                                  # Does it support Mac? (bool).
+  linux                                # Does it support Linux? (bool).
+  metacritic_score                     # Metacritic score, 0 if it has none (int).
+  achievements                         # Number of achievements, 0 if it has none (int).
+  supported_languages                  # Comma-separated enumeration of supporting languages.
+  full_audio_languages                 # Comma-separated enumeration of languages with audio support.
+  developers                           # Game developers.Developer name (string).
+  publishers                           # Game publishers.Publisher name (string).
+  categories                           # Game categories.Category name (string).
+  genres                               # Game genres.Genre name (string)
+  positive                             # Positive votes (int).
+  negative                             # Negative votes (int).
+  estimated_owners                     # Estimated owners (string, e.g.: "0 - 20000").
+  average_playtime_forever             # Average playtime since March 2009, in minutes (int).
+  average_playtime_2weeks              # Average playtime in the last two weeks, in minutes (int).
+  median_playtime_forever              # Median playtime since March 2009, in minutes (int).
+  median_playtime_2weeks               # Median playtime in the last two weeks, in minutes (int).
+  peak_ccu                             # Number of concurrent users, yesterday (int).
+  tags                                 # User given tags.Tag key (string, int).
+
+
+而以下则是一条数据示例，有一些字段是直接用json转换过去的，包含数组和字典：
+  name                                 Grand Theft Auto V
+  release_date                         Apr 13, 2015
+  required_age                         17
+  price                                0
+  dlc_count'                           1
+  windows                              TRUE
+  mac                                  FALSE
+  linux                                FALSE
+  metacritic_score                     96
+  achievements                         77
+  supported_languages                  ['English', 'French', 'Italian', 'German', 'Spanish - Spain', 'Korean', 'Polish', 'Portuguese - Brazil', 'Russian', 'Traditional Chinese', 'Japanese', 'Simplified Chinese', 'Spanish - Latin America']
+  full_audio_languages                 ['English', 'Spanish - Latin America']
+  developers                           ['Rockstar North']
+  publishers                           ['Rockstar Games']
+  categories                           ['Single-player', 'Multi-player', 'PvP', 'Online PvP', 'Co-op', 'Online Co-op', 'Steam Achievements', 'Full controller support', 'Remote Play on Phone', 'Remote Play on Tablet', 'Remote Play on TV']
+  genres                               ['Action', 'Adventure']
+  positive                             1171197
+  negative                             210154
+  estimated_owners                     20000000 - 50000000
+  average_playtime_forever             13650  
+  average_playtime_2weeks              656
+  median_playtime_forever              6274
+  median_playtime_2weeks               154
+  peak_ccu                             170527             
+  tags                                 {'Open World': 30185, 'Action': 22058, 'Multiplayer': 20209, 'Automobile Sim': 17980, 'Crime': 17920, 'Third Person': 17631, 'First-Person': 17344, 'Shooter': 13831, 'Mature': 12818, 'Adventure': 12799, 'Singleplayer': 11514, 'Third-Person Shooter': 11233, 'Racing': 10842, 'Co-op': 9521, 'Atmospheric': 9417, 'Sandbox': 9322, 'Funny': 8715, 'Great Soundtrack': 8190, 'Comedy': 7996, 'Moddable': 5965}
+
+   
+
+  
+
+
+
+
+
+
+
