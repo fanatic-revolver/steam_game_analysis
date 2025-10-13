@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1de3cd5-7b8a-42cf-b5ec-4c31e9578d83" name="Changes" comment="" />
+    <list default="true" id="c1de3cd5-7b8a-42cf-b5ec-4c31e9578d83" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/game_ratings.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game-analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/game-analysis.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +23,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;fanatic-revolver&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/fanatic-revolver/steam_game_analysis.git&quot;,
+    &quot;accountId&quot;: &quot;c214725b-b3d6-42ff-908b-a5540625a656&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -34,6 +54,7 @@
     &quot;Python.game-analysis (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.game-analysis.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Jingyu/Desktop/data-analysis&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -135,6 +156,16 @@
       <workItem from="1758012072412" duration="16318000" />
       <workItem from="1758090179572" duration="7200000" />
       <workItem from="1758097420342" duration="4424000" />
+      <workItem from="1758109222758" duration="1048000" />
+      <workItem from="1758110725304" duration="1662000" />
+      <workItem from="1758275908143" duration="6393000" />
+      <workItem from="1758338444734" duration="183000" />
+      <workItem from="1758804360905" duration="7210000" />
+      <workItem from="1759908098537" duration="3104000" />
+      <workItem from="1760172975293" duration="395000" />
+      <workItem from="1760191613430" duration="691000" />
+      <workItem from="1760262473070" duration="4807000" />
+      <workItem from="1760338974394" duration="5285000" />
     </task>
     <servers />
   </component>
