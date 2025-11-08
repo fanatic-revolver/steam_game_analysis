@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1de3cd5-7b8a-42cf-b5ec-4c31e9578d83" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/game_ratings.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="c1de3cd5-7b8a-42cf-b5ec-4c31e9578d83" name="Changes" comment="Second committ more code,charts,and a list of game_rating">
+      <change afterPath="$PROJECT_DIR$/report.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/game-analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/game-analysis.ipynb" afterDir="false" />
     </list>
@@ -46,25 +46,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.data_cleaning (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.data_cleaning.executor&quot;: &quot;Run&quot;,
-    &quot;Python.download.executor&quot;: &quot;Run&quot;,
-    &quot;Python.game-analysis (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.game-analysis.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Jingyu/Desktop/data-analysis&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;ai.codegeex.plugin.settings.ApplicationConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.data_cleaning (1).executor": "Run",
+    "Python.data_cleaning.executor": "Run",
+    "Python.download.executor": "Run",
+    "Python.game-analysis (1).executor": "Run",
+    "Python.game-analysis.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Jingyu/Desktop/data-analysis",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "http.proxy",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Jingyu\Desktop\data-analysis" />
@@ -166,11 +166,33 @@
       <workItem from="1760191613430" duration="691000" />
       <workItem from="1760262473070" duration="4807000" />
       <workItem from="1760338974394" duration="5285000" />
+      <workItem from="1760344620875" duration="893000" />
+      <workItem from="1760514282183" duration="1122000" />
+      <workItem from="1760515664926" duration="2726000" />
+      <workItem from="1760598468903" duration="6223000" />
+      <workItem from="1761191222925" duration="7693000" />
+      <workItem from="1761200139014" duration="4008000" />
+      <workItem from="1762403899178" duration="14008000" />
+      <workItem from="1762431222458" duration="3388000" />
+      <workItem from="1762585853404" duration="162000" />
     </task>
+    <task id="LOCAL-00001" summary="Second committ more code,charts,and a list of game_rating">
+      <option name="closed" value="true" />
+      <created>1760344712874</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1760344712874</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Second committ more code,charts,and a list of game_rating" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second committ more code,charts,and a list of game_rating" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/data_analysis$download.coverage" NAME="game-analysis Coverage Results" MODIFIED="1757256063661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
