@@ -7,6 +7,7 @@ Welcome to Jingyu's data analysis on steam game data!
 And then here is the meaning of the project:
 
  - data_cleaning.py (This is a piece of code that used for data cleaning)
+ - **game-analysis.html** (This is the main analysis code with navigations,highly recommended to use)
  - **game-analysis.ipynb** (This is the main analysis code)
  - game_ratings.xlsx (This is generated using my comprehensive evaluation metrics)
  - **games_data.xlsx** (This is the main data ,[origin from this data](https://www.kaggle.com/datasets/fronkongames/steam-games-dataset/data))
@@ -17,3 +18,7 @@ And then here is the meaning of the project:
 
 
 And now enjoy using my code !
+
+
+If you want to convert the .ipynb file to .html file , you can use this command:
+`jupyter nbconvert --to html game-analysis.ipynb --output game-analysis.html`

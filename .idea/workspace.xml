@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1de3cd5-7b8a-42cf-b5ec-4c31e9578d83" name="Changes" comment="Project finished ,future fix will be added if needed" />
+    <list default="true" id="c1de3cd5-7b8a-42cf-b5ec-4c31e9578d83" name="Changes" comment="refined report word and pdf , add navigation to the game-analysis.html , now we have an html file to click">
+      <change afterPath="$PROJECT_DIR$/game-analysis.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game-analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/game-analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report.docx" beforeDir="false" afterPath="$PROJECT_DIR$/report.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/report.pdf" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,25 +48,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.data_cleaning (1).executor": "Run",
-    "Python.data_cleaning.executor": "Run",
-    "Python.download.executor": "Run",
-    "Python.game-analysis (1).executor": "Run",
-    "Python.game-analysis.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Jingyu/Desktop/data-analysis",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "http.proxy",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.data_cleaning (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_cleaning.executor&quot;: &quot;Run&quot;,
+    &quot;Python.download.executor&quot;: &quot;Run&quot;,
+    &quot;Python.game-analysis (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.game-analysis.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Jingyu/Desktop/data-analysis&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;http.proxy&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Jingyu\Desktop\data-analysis" />
@@ -169,7 +176,14 @@
       <workItem from="1761200139014" duration="4008000" />
       <workItem from="1762403899178" duration="14008000" />
       <workItem from="1762431222458" duration="3388000" />
-      <workItem from="1762585853404" duration="565000" />
+      <workItem from="1762585853404" duration="1702000" />
+      <workItem from="1762587663386" duration="155000" />
+      <workItem from="1763543468310" duration="822000" />
+      <workItem from="1763791164202" duration="5747000" />
+      <workItem from="1763797050105" duration="3371000" />
+      <workItem from="1764571439981" duration="553000" />
+      <workItem from="1764572076852" duration="3333000" />
+      <workItem from="1764575458481" duration="159000" />
     </task>
     <task id="LOCAL-00001" summary="Second committ more code,charts,and a list of game_rating">
       <option name="closed" value="true" />
@@ -187,7 +201,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762586110961</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="requirements.txt added,you can now install the dependencies using pip install -r requirements.txt">
+      <option name="closed" value="true" />
+      <created>1762586520931</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1762586520931</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,7 +218,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Second committ more code,charts,and a list of game_rating" />
     <MESSAGE value="Project finished ,future fix will be added if needed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Project finished ,future fix will be added if needed" />
+    <MESSAGE value="requirements.txt added,you can now install the dependencies using pip install -r requirements.txt" />
+    <MESSAGE value="refined report word and pdf , add navigation to the game-analysis.html , now we have an html file to click" />
+    <option name="LAST_COMMIT_MESSAGE" value="refined report word and pdf , add navigation to the game-analysis.html , now we have an html file to click" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/data_analysis$download.coverage" NAME="game-analysis Coverage Results" MODIFIED="1757256063661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
